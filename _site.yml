@@ -10,5 +10,5 @@ navbar:
     - text: "About"
       href: about.html
     - text: "A Testing Page"
-      href: testingpage.Rmd
+      href: testingpage.html
 output: distill::distill_article
