@@ -1,7 +1,7 @@
 name: "website_example"
-title: "example_website"
+title: "example-website"
 description: |
-  example_website
+  example-website
 output_dir: "docs"
 navbar:
   right:
