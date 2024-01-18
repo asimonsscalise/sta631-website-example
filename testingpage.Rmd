@@ -1,8 +1,7 @@
 ---
 title: "Untitled"
-author: "Abby Simons-Scalise"
-date: "`r Sys.Date()`"
-output: html_document
+description: |
+  Just creating a test page
 ---
 
 ```{r setup, include=FALSE}
